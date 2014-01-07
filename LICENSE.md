@@ -1,6 +1,7 @@
 The MIT License (MIT)
 
 Copyright (c) 2014 Ian Grant
+
 XML-RPC.NET Copyright (c) 2006 Charles Cook
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -20,6 +21,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
 
 Last.fm2JRiver is based on Ehead.LastFmAPI (http://yabb.jriver.com/interact/index.php?topic=73169.0)
