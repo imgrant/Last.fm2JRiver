@@ -12,10 +12,10 @@ At the moment, I couldn't work out how to compile the LastFm.APIMethods DLL and 
 
 
 Individual script descriptions
-==============================
+------------------------------
 
-LastfmLastPlayed2JRiver - matches scrobbles on Last.fm to tracks in JRMC and updates their last played date accordingly.
+- LastfmLastPlayed2JRiver - matches scrobbles on Last.fm to tracks in JRMC and updates their last played date accordingly.
 
-LastfmLoved2JRiver - creates a playlist in JRMC of tracks that have been loved on Last.fm (if they exist in the JRMC library).
+- LastfmLoved2JRiver - creates a playlist in JRMC of tracks that have been loved on Last.fm (if they exist in the JRMC library).
 
-LastfmPlayCount2JRiver - matches tracks in a users' Last.fm library to those in JRMC and updates their play count to match Last.fm.
+- LastfmPlayCount2JRiver - matches tracks in a users' Last.fm library to those in JRMC and updates their play count to match Last.fm.
